@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: LavenderBlush;
+  color: brown;
+  text-align: center;
+}
+
+.div{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  background-color: brown;
+  color: LavenderBlush;
+}
+
+img{
+  width: 500px;
+}
